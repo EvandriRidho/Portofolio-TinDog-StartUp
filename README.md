@@ -1,2 +1,3 @@
 # Portofolio-TinDog-StartUp
-Portofolio E-commerce
+Portofolio E-commerce.
+note : blom selese
