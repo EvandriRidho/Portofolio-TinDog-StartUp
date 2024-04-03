@@ -1,2 +1,2 @@
 # Portofolio-TinDog-StartUp
-Portofolio E-commerce.
+Portofolio TinDog Startup yang saya buat menggunakan html dan css dan bantuan dari framework tailwindcss
